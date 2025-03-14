@@ -1,14 +1,14 @@
 {
   "name": "sit323-2025-prac2p",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hongming Liu",
   "license": "ISC",
-  "description": "",
+  "description": "A simple webpage for SIT323-2025 Task2.1P",
   "dependencies": {
     "express": "^4.21.2"
   }
