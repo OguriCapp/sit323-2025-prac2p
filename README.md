@@ -8,3 +8,7 @@ Secondly, I create public folder to put some static files like Icon.jpg (Deakin 
 Then I create a simple HTML web page by using some knowledeg I have learned before, including simple titles and form and display of Deakin's icon.
 
 Finally I start the server on port 8080 and write a console message to cheack it conveniently.
+
+To run it, you should open the terminal and type 
+node server.js
+Then, open the website: http://localhost:8080
